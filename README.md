@@ -3,12 +3,12 @@
 Snap a photo of any product label and Nutori reads the ingredients, flags allergens,
 and explains what's inside — tuned to you, not to a generic score.
 
-[App Store](LINK) https://apps.apple.com/us/app/nutori-labels-that-know-you/id6804901802
+AppStore_Link: https://apps.apple.com/us/app/nutori-labels-that-know-you/id6804901802
 
 ## Screenshots
-<img width="460" height="997" alt="image" src="https://github.com/user-attachments/assets/4ef70d37-5864-4e4e-a582-a25940aecdf1" />
-<img width="460" height="997" alt="image" src="https://github.com/user-attachments/assets/1097e566-7c1a-4dad-bfad-5c61031a1938" />
-<img width="460" height="997" alt="image" src="https://github.com/user-attachments/assets/4c7a5f36-f8cf-4c16-9143-102bd17c5a15" />
+<img width="230" height="475" alt="image" src="https://github.com/user-attachments/assets/4ef70d37-5864-4e4e-a582-a25940aecdf1" />
+<img width="230" height="475" alt="image" src="https://github.com/user-attachments/assets/1097e566-7c1a-4dad-bfad-5c61031a1938" />
+<img width="230" height="475" alt="image" src="https://github.com/user-attachments/assets/4c7a5f36-f8cf-4c16-9143-102bd17c5a15" />
 
 ## Features
 - Photo-based ingredient analysis (OCR) with allergen detection
